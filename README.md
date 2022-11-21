@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buseokcu
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning java rn
+- 🌱 I’m currently learning java 
 - and i'm gonna upload my every java class during my learning process to see my improvement :)
 - i hope it's gonna work
 
