@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @buseokcu
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning java 
-- and i'm gonna upload my every java class during my learning process to see my improvement :)
-- i hope it's gonna work
+- 👀 I’m currently learning java, javascript and cyber security 
+- 🌝 I upload my class projects during my learning process to see my improvement :)
+- 🤞🏻 Hope it's gonna work
 
 - 📫 How to reach me : buseokcu@gmail.com
 
